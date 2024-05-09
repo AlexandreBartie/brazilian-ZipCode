@@ -1,11 +1,11 @@
 {
-    "name": "Upcoming Toronto Concerts",
+    "name": "Brazilian ZipCode",
     "version": "1.0.0",
-    "description": "This is an extension to look up concerts coming to Toronto",
+    "description": "Find your Brazilian address using a local ZipCode",
     "manifest_version": 3,
-    "author": "Tiffany J",
+    "author": "Alexandre Bartie",
     "action": {
         "default_popup": "index.html",
-        "default_title": "Upcoming Toronto Concerts"
+        "default_title": "Brazilian ZipCode"
     }
 }
